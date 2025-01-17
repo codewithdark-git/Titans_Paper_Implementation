@@ -90,8 +90,6 @@ Feedback and suggestions for improvement are always welcome!
 ## Contact
 Feel free to reach out if you have any questions or feedback:
 
-**GitHub**: [Codewithdark-git](https://github.com/codewithdark-git)
-
 ---
 
 ### Thank You for Visiting!
